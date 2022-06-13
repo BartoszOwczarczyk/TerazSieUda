@@ -1,0 +1,2 @@
+# TerazSieUda
+przykladowe readme
